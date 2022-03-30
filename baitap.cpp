@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//tin
 #include<string.h>
 typedef struct{
 	int ngay,thang,nam;
