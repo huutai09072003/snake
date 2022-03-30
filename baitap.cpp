@@ -1,5 +1,5 @@
 #include<stdio.h>//tin
-#include<string.h>
+#include<string.h>//ae tin 
 typedef struct{
 	int ngay,thang,nam;
 }date;
